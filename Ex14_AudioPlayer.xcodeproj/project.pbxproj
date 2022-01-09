@@ -13,6 +13,7 @@
 		18A2E009278AA7400000CB21 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18A2E007278AA7400000CB21 /* Main.storyboard */; };
 		18A2E00B278AA7410000CB21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18A2E00A278AA7410000CB21 /* Assets.xcassets */; };
 		18A2E00E278AA7410000CB21 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18A2E00C278AA7410000CB21 /* LaunchScreen.storyboard */; };
+		18A2E02A278ABC360000CB21 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 18A2E029278ABC360000CB21 /* music.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		18A2E00A278AA7410000CB21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18A2E00D278AA7410000CB21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18A2E00F278AA7410000CB21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18A2E029278ABC360000CB21 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = music.mp3; path = ../../../../Downloads/music.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		18A2E000278AA7400000CB21 /* Ex14_AudioPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				18A2E029278ABC360000CB21 /* music.mp3 */,
 				18A2E001278AA7400000CB21 /* AppDelegate.swift */,
 				18A2E003278AA7400000CB21 /* SceneDelegate.swift */,
 				18A2E005278AA7400000CB21 /* ViewController.swift */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18A2E02A278ABC360000CB21 /* music.mp3 in Resources */,
 				18A2E00E278AA7410000CB21 /* LaunchScreen.storyboard in Resources */,
 				18A2E00B278AA7410000CB21 /* Assets.xcassets in Resources */,
 				18A2E009278AA7400000CB21 /* Main.storyboard in Resources */,
